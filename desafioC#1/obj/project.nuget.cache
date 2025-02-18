@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "83cy75T8yzQx3yaB+7kV15ep+ermgWyUMda8rAK8D937HvVc6nJFHQAL6Zw+Wf5b7LRb0tFMozW2XmW3xJlTWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buzat\\OneDrive\\Área de Trabalho\\C#\\ScreenSound\\desafioC#1\\ScreenSound-04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buzat\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\buzat\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\buzat\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\buzat\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
